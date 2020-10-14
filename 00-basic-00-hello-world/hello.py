@@ -20,3 +20,8 @@ print("20 + 20 =", 20 + 20)
 print("20 * 20 =", 20 * 20)
 print("20 / 20 =", 20 / 20)
 print("20 - 200 =", 20 - 200)
+
+print("Hello","WORLD!")     # ',' gives space automatically & can work with string as well as other datatypes
+print("Hello "+"WORLD!")    # '+' is used for concatenation of two string & dont work other then string
+
+print("above both statements will print same")
